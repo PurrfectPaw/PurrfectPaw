@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PurrfectPaw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript,Python,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning CSS,HTML
+- 💞️ I’m looking to collaborate with everyone
+- 📫 How to reach me by dm my instagram
+- ⚡ Fun fact: i love CATS so muchh
 
 <!---
 PurrfectPaw/PurrfectPaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
