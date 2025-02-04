@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurrfectPaw
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning CSS,HTML
+- 🌱 I’m currently learning CSS,HTML,JS
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me by dm my instagram
 - ⚡ Fun fact: i love CATS so muchh
